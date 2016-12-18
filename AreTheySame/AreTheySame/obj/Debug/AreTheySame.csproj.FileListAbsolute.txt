@@ -1,0 +1,5 @@
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySame\bin\Debug\AreTheySame.exe.config
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySame\bin\Debug\AreTheySame.exe
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySame\bin\Debug\AreTheySame.pdb
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySame\obj\Debug\AreTheySame.exe
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySame\obj\Debug\AreTheySame.pdb

@@ -1,0 +1,8 @@
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\bin\Debug\AreTheySameTests.dll
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\bin\Debug\AreTheySameTests.pdb
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\bin\Debug\AreTheySame.exe
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\bin\Debug\AreTheySame.pdb
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\obj\Debug\AreTheySameTests.csprojResolveAssemblyReference.cache
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\obj\Debug\AreTheySameTests.dll
+C:\Git\Kata\AreTheySame\AreTheySame\AreTheySameTests\obj\Debug\AreTheySameTests.pdb
